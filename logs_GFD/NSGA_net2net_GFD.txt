@@ -1,0 +1,4 @@
+Accuracy of best model for h_b_30hz_30: 1.00
+Accuracy of best model for h_b_30hz_50: 1.00
+Accuracy of best model for h_b_30hz_70: 1.00
+Accuracy of best model for h_b_30hz_90: 1.00

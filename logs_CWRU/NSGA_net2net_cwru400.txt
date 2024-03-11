@@ -1,0 +1,12 @@
+
+
+*****Target data: 400 samples/Class
+Accuracy of best model for FE_tar_7_1: 100.00
+Accuracy of best model for FE_tar_7_2: 100.00
+Accuracy of best model for FE_tar_7_3: 100.00
+Accuracy of best model for FE_tar_14_1: 100.00
+Accuracy of best model for FE_tar_14_2: 100.00
+Accuracy of best model for FE_tar_14_3: 100.00
+Accuracy of best model for FE_tar_21_1: 100.00
+Accuracy of best model for FE_tar_21_2: 100.00
+Accuracy of best model for FE_tar_21_3: 100.00
